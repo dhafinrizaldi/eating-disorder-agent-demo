@@ -1,0 +1,25 @@
+Assignment Topic: AI for Eating Disorder Symptoms [EADS]
+
+Topic EDS
+
+In many countries, the number of young people with an eating disorder has grown in recent years. Yet the waiting time for appropriate treatment is long, leaving some of these young people in a care gap. Recently, experimental interventions have been developed involving Featback, a fully automated, easily accessible system for people who may have eating disorders. Such systems have shown promise in experimental trials. You can find more information at https://featback.nl/
+
+In this topic, students explore what role AI might play in an automated system like Featback, and what ethical issues might arise in the process, such as risks to users, misuse, bias, etc. Students are invited to create a mock-up or demo of a user-interface in which AI is integrated. The client is willing to discuss sharing data from an earlier scientific study.
+
+This is not a technical assignment. Hence the grade is not based on technical aspects of the design. You may explore the landscape of commercial, off-the-shelf tools, although you are not required to use any of them. You will share potential tools and strategies with other students.
+
+ 
+
+Client: Alexandra Dingemans, a.dingemans@rivierduinen.nl
+
+ 
+
+Primary Student Coach: Rithic Chellaram Hariharan
+
+ 
+
+Reference:
+
+Rohrbach, P.J., Dingemans, A.E., Spinhoven, P., Van Ginkel, J.R., Fokkema, M., Wilderjans, T.F., Bauer, S. and Van Furth, E.F., 2022. Effectiveness of an online self‐help program, expert‐patient support, and their combination for eating disorders: Results from a randomized controlled trial. International Journal of Eating Disorders, 55(10), pp.1361-1373.
+
+ 
